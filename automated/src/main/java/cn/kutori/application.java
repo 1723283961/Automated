@@ -20,7 +20,6 @@ import static cn.kutori.utils.ScreenCaptureUtils.getScreenShot;
 
 public class application  {
 
-
     public static void main(String[] args) throws Exception {
         // 禁用 JNativeHook 的日志输出
         Logger jnhLogger = Logger.getLogger(GlobalScreen.class.getPackage().getName());
